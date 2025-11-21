@@ -1,0 +1,23 @@
+---
+name: Feature Request
+about: Suggest an idea for this project
+title: "Epic: "
+labels: epic
+assignees: ''
+
+---
+
+**Description**
+A clear and concise description of the feature you'd like to see.
+
+**Use Case**
+Explain the problem this feature would solve or the value it would add.
+
+**Proposed Solution**
+A brief description of how you think this feature could be implemented.
+
+**Benefits**
+List the benefits of adding this feature.
+
+**Additional Context**
+Add any other context or screenshots about the feature request here.
